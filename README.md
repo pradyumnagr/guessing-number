@@ -2,4 +2,4 @@
 
 The classic guess the number game with some extra features.
 
-[Try it](https://prateekkalra.github.io/guess-game)
+[Try it](https://pradyumnagr.github.io/guessing-number)
